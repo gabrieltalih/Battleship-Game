@@ -1,3 +1,5 @@
+# Battleship-Game
+
 Written in January 2021
 
 This was my first proper java assignment I completed, it was for a course I already got credits for due to my completion of AP's. Despite that, I did the assignments of 
